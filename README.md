@@ -16,6 +16,8 @@ The `correlation_matrix.ipynb` notebook is used to create the correlation matric
 The `decision_trees.ipynb` notebook is used to generate the decision trees.  
 The `heatmaps.ipynb` notebook is used to generate the heatmaps.
 
+All code regarding BGN can be found in the folder BGN_algorithm.
+
 #### Citation information : 
 ```
 @article{SANCHEZREINOSO2024130877,
